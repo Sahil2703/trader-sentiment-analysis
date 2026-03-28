@@ -32,7 +32,7 @@ pip install pandas numpy matplotlib seaborn
 
 1. Clone this repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/trader-sentiment-analysis.git
+git clone https://github.com/Sahil2703/trader-sentiment-analysis.git
 cd trader-sentiment-analysis
 ```
 
